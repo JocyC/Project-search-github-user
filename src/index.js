@@ -22,9 +22,3 @@ root.render(
     </Auth0Provider>
   </React.StrictMode>
 );
-
-//
-
-//
-
-// 15OiEsLYx5YFHElmXl86YqGUmylZ_JOkDF2SIxMz58fJeP9F0RiL0Q8XA7JPz-4b
